@@ -26,4 +26,5 @@ Artisan::command('inspire', function () {
 |--------------------------------------------------------------------------
 | Last commit
 |
+TESTER
 */
